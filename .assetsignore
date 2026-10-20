@@ -4,3 +4,11 @@
 .assetsignore
 wrangler.jsonc
 README.md
+# build-only material that never reaches the repo, in case of a deploy from this folder
+out
+lab
+node_modules
+.wrangler
+BRIEF.md
+package.json
+package-lock.json
