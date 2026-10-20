@@ -1,0 +1,8 @@
+{
+  // A static site: Cloudflare serves the files in this folder as they are.
+  "name": "thunder-burgers",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./"
+  }
+}
