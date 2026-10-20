@@ -1,0 +1,7 @@
+# build-only material: raw generator takes, test screenshots, the test tool, the interview brief
+out/
+lab/
+node_modules/
+package.json
+package-lock.json
+BRIEF.md
